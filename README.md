@@ -19,3 +19,7 @@ we would be happy if you cite the following related publications:
 	title = {ObjectFlow: A Descriptor for Classifying Traffic Motion},
 	year = {2010}
 }
+
+Now try to run:
+
+demo.cpp
